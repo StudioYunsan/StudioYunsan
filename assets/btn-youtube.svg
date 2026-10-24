@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="56" viewBox="0 0 200 56" role="img" aria-label="YOUTUBE">
+<title>YOUTUBE</title>
+<style>@font-face{font-family:'Mono';src:url(data:font/woff2;base64,d09GMgABAAAAAAMAABAAAAAABaQAAAKoAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVF4AXBEICoNQgnkBNgIkAxILEgAEIAVyByAMBxsfBCAeh7F7pNmKSdy/iuB723/rc2feXzHRTMQzNSCDTDVbsxTPIdpiFua2o5boKlfUrRJSIZV3Kyxtr/m/pl6UeIX4IRZV0D+751ErbuMJjFJHAzlbAg9oPpxuE5GIDkFcNimot6EEKgOSEMqEQEWNNRWjx2arwJNDUQAodFvtpe0km1dc96AkwvbnaX5cVCKdTvOBSXB3LIXGcJCowLXhBiaOBPCt5hZk7/9/TvY+OiMgtU1v0VxJCOUl1JahtbRj3fKK4O/L15BqQpmGOkpIkcdFYimI75Gl0/RlCo7N6gcqErIN3IDX5cYDVZWXlGlupJiCmlZRoEj1E8WfxTfFRYUFgoMQRTdbDZQH1VEZR/EJIAeZTEhCCPIsq1WhQuWaVcvXrFapVCVfWaW0epOoUqnSmRcOPn8+Nn55gaOKc5Pjr+LQy4oVQ4wKoLIApdkVp1++jOzQq1el4IXU7blqZy0+/Twz+6JSqWJUUTGn5lGqlJvOsPD7PK+ULay04MqNOpduNVoknJ8Wvr3/dkkPsydAdxpohiVvH63ePmmhhlRWV5RenN3FWvP4sc7AHvlN3xtIht3eZDrwzd/dYR9BhHzuB0zf3p856d9+hp45aSaYKoxc6kD7oXQY7WEnPBf0QpkQ2p8KFT3+sD/tj5nHHcC6XAL0qV9n/jPz11M6VVi76ThStBVed8zn9cS8dtZ4fQC6xrtfl1zs9OnTevX+n57rtGQMXgMIpL75n6Ou31lWbfC/5bPsL3j39OFV+DN9tImq+C/1Sb+hTALBm4zSfAKl1Zy7/QVpvraeqSbKQioEymsjA8H3lYzEFHkFSVWmqqCyqpv5ElwNb/h/q6uorZlmFm62Rs4aZlYWlq5Srka2VibKDnZG9phAsQZ6qPanURz7OD8H) format('woff2');}
+.borg{font-family:'Borg';} .pf{font-family:'PlayfairM';font-weight:500;} .pfi{font-family:'PlayfairI';font-style:italic;}
+.in{font-family:'Inter';font-weight:300;} .mono{font-family:'Mono';text-transform:uppercase;}
+@keyframes rise{from{opacity:0;translate:0 28px}to{opacity:1;translate:0 0}}
+.r{opacity:0;animation:rise 1.4s cubic-bezier(.16,1,.3,1) forwards;transform-box:fill-box;}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}.d4{animation-delay:.75s}.d5{animation-delay:.95s}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.15}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes ping{0%{transform:scale(1);opacity:.75}80%,100%{transform:scale(2.6);opacity:0}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 1.6s cubic-bezier(0,0,.2,1) infinite;}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+
+@keyframes sheen{0%{transform:translateX(-120px)}60%,100%{transform:translateX(320px)}}
+.sheen{animation:sheen 4.5s cubic-bezier(.4,0,.2,1) infinite;}</style>
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#d4af37" stop-opacity="0"/><stop offset=".5" stop-color="#d4af37" stop-opacity=".18"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient><clipPath id="c"><rect width="200" height="56" rx="3"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="200" height="56" fill="#0a0a0e"/><rect class="sheen" x="0" y="0" width="90" height="56" fill="url(#s)" transform="skewX(-20)"/></g>
+<rect x=".5" y=".5" width="199" height="55" rx="3" fill="none" stroke="#fff" stroke-opacity=".1"/>
+<path d="M3 10V3H10" fill="none" stroke="#d4af37" stroke-width="1.3" opacity="0.8"/><path d="M197 10V3H190" fill="none" stroke="#d4af37" stroke-width="1.3" opacity="0.8"/><path d="M3 46V53H10" fill="none" stroke="#d4af37" stroke-width="1.3" opacity="0.8"/><path d="M197 46V53H190" fill="none" stroke="#d4af37" stroke-width="1.3" opacity="0.8"/>
+<g transform="translate(22 16)" fill="none" stroke="#d4af37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/></svg></g>
+<text class="mono" x="62" y="33" font-size="11.5" letter-spacing="2.6" fill="#f4f4f5">YOUTUBE</text>
+<text class="mono" x="182" y="33" text-anchor="end" font-size="12" fill="#8a8a93">↗</text>
+</svg>
