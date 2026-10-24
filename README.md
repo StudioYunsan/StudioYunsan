@@ -1,41 +1,43 @@
 <div align="center">
 
-<a href="https://yunsan.studio">
-  <img src="./assets/hero.svg" width="100%" alt="YUNSAN STUDIO. Visual Awe. A boutique post-production studio." />
+<a href="https://yunsanstudio.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="YUNSAN. Keep them watching. We edit stories people can't look away from. Every second earns the next." />
 </a>
 
 <br/><br/>
 
-<a href="https://yunsan.studio"><img src="./assets/btn-web.svg" height="40" alt="yunsan.studio" /></a>&nbsp;
-<a href="https://youtube.com/@Yunsan_Studio"><img src="./assets/btn-youtube.svg" height="40" alt="YouTube" /></a>&nbsp;
-<a href="https://instagram.com/Yunsan_Studio"><img src="./assets/btn-instagram.svg" height="40" alt="Instagram" /></a>&nbsp;
-<a href="https://x.com/Yunsan_Studio"><img src="./assets/btn-x.svg" height="40" alt="X / Twitter" /></a>&nbsp;
-<a href="mailto:studio.yunsan@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
+<a href="https://yunsanstudio.vercel.app/"><img src="./assets/btn-web.svg" height="48" alt="yunsan.studio" /></a>&nbsp;
+<a href="https://youtube.com/@Yunsan_Studio"><img src="./assets/btn-youtube.svg" height="48" alt="YouTube" /></a>&nbsp;
+<a href="https://instagram.com/Yunsan_Studio"><img src="./assets/btn-instagram.svg" height="48" alt="Instagram" /></a>
+<br/>
+<a href="https://x.com/Yunsan_Studio"><img src="./assets/btn-x.svg" height="48" alt="X" /></a>&nbsp;
+<a href="https://www.linkedin.com/company/yunsan"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:studio.yunsan@gmail.com"><img src="./assets/btn-email.svg" height="48" alt="Email studio.yunsan@gmail.com" /></a>
 
 <br/><br/>
 
-<img src="./assets/title-work.svg" width="100%" alt="01 — Selected Works" />
+<img src="./assets/t-work.svg" width="100%" alt="The edits · pick a channel — Work." />
 
-<a href="https://yunsan.studio/#work">
-  <img src="./assets/works.svg" width="100%" alt="Selected works — Narrative Flow (Documentary), High-Energy Pacing (Gaming / Let's Play), Motion &amp; Ink (2D Animation)" />
+<a href="https://www.youtube.com/watch?v=SB5terJo-0M">
+  <img src="./assets/work.svg" width="100%" alt="Channels: Gaming, Documentary, Animation, 3D, Shorts. Now playing: Gaming creator showreel (00:34)." />
 </a>
 
-<img src="./assets/title-about.svg" width="100%" alt="02 — About" />
+<img src="./assets/t-process.svg" width="100%" alt="How we work together — Brief to final cut." />
 
-<img src="./assets/about.svg" width="100%" alt="We built our rhythm cutting high-retention Let's Plays for major creators, mastering pacing and dead-air to keep eyes locked on the screen. Today, we architect long-form documentaries and bespoke 2D animation, scaling to full-agency firepower through our exclusive on-call roster of 3D artists." />
-
-<img src="./assets/title-services.svg" width="100%" alt="03 — What we cut" />
-
-<img src="./assets/services.svg" width="100%" alt="Faceless documentaries · High-retention gaming · Bespoke 2D animation · 3D on-call roster" />
-
-<br/>
-
-<a href="https://yunsan.studio/#contact">
-  <img src="./assets/contact.svg" width="100%" alt="Let's Create. Email studio.yunsan@gmail.com or scan to open yunsan.studio" />
+<a href="https://yunsanstudio.vercel.app/#process">
+  <img src="./assets/process.svg" width="100%" alt="Hello → Kickoff call → Proposal → Book → Edit & review → Final cut." />
 </a>
 
-<br/>
+<img src="./assets/t-studio.svg" width="100%" alt="The studio — Built on one obsession." />
 
-<img src="./assets/footer.svg" width="100%" alt="YUNSAN. — Cut. Grade. Animate. Repeat." />
+<a href="https://yunsanstudio.vercel.app/#studio">
+  <img src="./assets/studio.svg" width="100%" alt="A small studio that cuts by hand. Yuna, lead editor. Insaan, studio & tech." />
+</a>
+
+<a href="https://yunsanstudio.vercel.app/#contact">
+  <img src="./assets/contact.svg" width="100%" alt="Let's talk. Send a brief, email studio.yunsan@gmail.com or DM @Yunsan_Studio. Projects start under $100." />
+</a>
+
+<img src="./assets/footer.svg" width="100%" alt="YUNSAN. © 2026 Yunsan Studio." />
 
 </div>
